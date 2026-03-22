@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Copy of Grid Paper Generator3",
+  "description": "Generates Chinese grid paper (20x20) with user input text, matching a specific template.",
+  "requestFramePermissions": []
+}
